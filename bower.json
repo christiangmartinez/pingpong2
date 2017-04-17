@@ -1,0 +1,25 @@
+{
+  "name": "ping-pong-js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Christian Martinez"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "calculator"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
